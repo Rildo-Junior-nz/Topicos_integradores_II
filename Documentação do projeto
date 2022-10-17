@@ -1,0 +1,38 @@
+Documentação Projeto Barber Designer´s
+MVP
+
+Através das definições de MVP e suas aplicabilidades, como a entrega de um produto com uma versão simples e o mínimo de recursos e dinheiro possíveis para observar o feedback do público-alvo, possibilitando  ajustes e implementações ao longo da sua construção para  e as demandas solicitadas, O MVP da Barber Designer´s vai possibilitar o cadastro inicial das lojas e clientes, login de ambos, cadastro de produtos e serviços assim como a escolha dos mesmos pelos clientes, escolha das barbearias parceiras. 
+
+Casos de Uso
+
+ Usuário-Lojas filiadas:
+
+1 Cadastro de Perfil: A loja cadastrará no sistema os dados do proprietário e da Loja.
+2 Login: Tendo feito isso, será permitido seu Login com seus dados.
+3 Cadastro de produtos e serviços: A loja cadastrará na plataforma seus produtos a serem ofertados e serviços, sendo ambas as possibilidades ou uma delas ( apenas serviços de corte, apenas serviço de venda de produtos ou ambos) baseadas em suas disponibilidades.
+4 Disponibilidade de horários de acordo com os serviços: A loja também insere após seus serviços, a disponibilidade de horários para consumo deles, evitando filas de espera.
+
+5 Logout: Usuário-loja sai do sistema e encerra a sessão.
+
+Usuário-cliente:
+
+1 Cadastro de Perfil: Usuário preenche seus dados para criar sua conta no App ou site.
+2 Login: Após o cadastro, o cliente acessa sua conta .
+3 Escolha da loja/Barbearia de acordo com suas preferências: O cliente escolhe por serviço desejado, proximidade de sua residência, oferta delivery ou mais.
+4 Escolhe e consome o serviço: Assim, escolhe e marcar sua opção de serviço desejado, seja delivery(atendimento em casa) ou presencial ( indo a loja).
+5 Desmarcar atendimento de forma virtual: Usuário cancela o atendimento solicitado anteriormente.
+6 Logout: Usuário sai do sistema e encerra a sessão.
+
+
+Fundamentos que sustentam a ideia ODS
+
+è preciso ressaltar que O projeto Barber Designer´s é a ponte para a práxis, ou seja, é o projeto teste para a implementação de um projeto vindouro de maior impacto social, que será utilizado como teste de caso para aplicaçaõ da tecnologia entre outros. Assim,  utiliza do Objetivo de Desenvolvimento Sustentável 9-indústria, inovação e infraestrutura, analisando através da inovação, a possibilidade de iniciar um trabalho de integração de barbearias como início prático, visando metas maiores de responsabilidades social em projetos futuros, a partir do teste e sucesso deste. Destacando tais metas:
+9.a Facilitar o desenvolvimento de infraestrutura sustentável e resiliente em países em desenvolvimento, por meio de maior apoio financeiro, tecnológico e técnico aos países africanos, aos países menos desenvolvidos, aos países em desenvolvimento sem litoral e aos pequenos Estados insulares em desenvolvimento
+9.b Apoiar o desenvolvimento tecnológico, a pesquisa e a inovação nacionais nos países em desenvolvimento, inclusive garantindo um ambiente político propício para, entre outras coisas, a diversificação industrial e a agregação de valor às commodities
+
+Concorrentes
+No momento, a partir de pesquisas iniciais, não foi encontrado um site de integração que proponha fazer tal integração entre barbearias por meio de site ou aplicativo, como já pode ser evidenciado com lojas de bebidas ou, comidas.
+Monetização
+Inscrição das barbearias e lojas parceiras com planos mensais, trimestrais e anuais. Redes de anúncios e Posts patrocinados
+
+
